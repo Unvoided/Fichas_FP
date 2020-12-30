@@ -1,0 +1,67 @@
+2020-12-12 17:14:25 - ----------------------------------------------
+2020-12-12 17:14:25 - Inciando o programa
+2020-12-12 17:14:25 - Menu
+2020-12-12 17:15:31 - Verificar máximo de alunos
+2020-12-12 17:15:31 - Adicionando aluno
+2020-12-12 17:15:40 - Aluno adicionado
+2020-12-12 17:15:42 - Verificar máximo de alunos
+2020-12-12 17:15:42 - Adicionando aluno
+2020-12-12 17:15:50 - Aluno adicionado
+2020-12-12 17:15:51 - Verificar máximo de alunos
+2020-12-12 17:15:51 - Adicionando aluno
+2020-12-12 17:16:31 - Aluno adicionado
+2020-12-12 17:16:32 - Ver Lista
+2020-12-12 17:16:41 - Verificar máximo de alunos
+2020-12-12 17:16:41 - Adicionando aluno
+2020-12-12 17:16:55 - Aluno adicionado
+2020-12-12 17:16:58 - Ver Lista
+2020-12-12 17:17:05 - Abortado
+2020-12-12 17:17:15 - Procurando aluno
+2020-12-12 17:17:15 - Procura concluída: Encontrado!
+2020-12-12 17:17:15 - A eliminar aluno
+2020-12-12 17:17:15 - Eliminando variáveis
+2020-12-12 17:17:15 - Variáveis eliminadas!
+2020-12-12 17:17:15 - Aluno eliminado!
+2020-12-12 17:17:21 - Ver Lista
+2020-12-12 17:18:13 - Inicizalizar atualização de aluno
+2020-12-12 17:18:15 - Procurando aluno
+2020-12-12 17:18:15 - Procura concluída: Não Encontrado!
+2020-12-12 17:18:21 - Inicizalizar atualização de aluno
+2020-12-12 17:18:23 - Procurando aluno
+2020-12-12 17:18:23 - Procura concluída: Encontrado!
+2020-12-12 17:18:23 - Atualizando aluno
+2020-12-12 17:18:35 - Aluno atualizado!
+2020-12-12 17:18:37 - Ver Lista
+2020-12-12 17:18:53 - Procurando aluno
+2020-12-12 17:18:53 - Procura concluída: Encontrado!
+2020-12-12 17:18:53 - A eliminar aluno
+2020-12-12 17:18:53 - Eliminando variáveis
+2020-12-12 17:18:53 - Variáveis eliminadas!
+2020-12-12 17:18:53 - Aluno eliminado!
+2020-12-12 17:18:58 - Ver Lista
+2020-12-12 17:19:06 - Sair
+2020-12-12 17:19:06 - Finalizando o programa
+2020-12-12 17:19:06 - ----------------------------------------------
+2020-12-29 17:10:10 - ----------------------------------------------
+2020-12-29 17:10:10 - Inciando o programa
+2020-12-29 17:10:10 - Menu
+2020-12-29 17:10:13 - Verificar máximo de alunos
+2020-12-29 17:10:13 - Adicionando aluno
+2020-12-29 17:10:21 - Aluno adicionado
+2020-12-29 17:10:24 - Ver Lista
+2020-12-29 17:10:27 - Procurando aluno
+2020-12-29 17:10:27 - Procura concluída: Encontrado!
+2020-12-29 17:10:27 - A eliminar aluno
+2020-12-29 17:10:27 - Eliminando variáveis
+2020-12-29 17:10:27 - Variáveis eliminadas!
+2020-12-29 17:10:27 - Aluno eliminado!
+2020-12-29 17:10:52 - Ver Lista
+2020-12-29 17:21:37 - Sair
+2020-12-29 17:21:37 - Finalizando o programa
+2020-12-29 17:21:37 - ----------------------------------------------
+2020-12-29 17:23:06 - ----------------------------------------------
+2020-12-29 17:23:06 - Inciando o programa
+2020-12-29 17:23:06 - Menu
+2020-12-29 17:23:09 - Sair
+2020-12-29 17:23:09 - Finalizando o programa
+2020-12-29 17:23:09 - ----------------------------------------------
